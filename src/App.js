@@ -17,7 +17,7 @@ class App extends React.Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learning React
+            Learning React Library
           </a>
         </header>
       </div>
